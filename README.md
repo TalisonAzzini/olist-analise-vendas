@@ -53,6 +53,7 @@ Dados públicos fornecidos pela **Olist**, maior loja de departamentos nos marke
 | `olist_products_dataset.csv` | Categorias de produto |
 | `olist_sellers_dataset.csv` | Localização dos vendedores |
 | `olist_geolocation_dataset.csv` | Coordenadas geográficas |
+| `product_category_name_translation.csv` | Tradução dos nomes das categorias (português → inglês) |
 
 ---
 
